@@ -24,4 +24,6 @@ This course is designed for software engineers, solution architects, and manager
 This Course is using the Apache Kafka 2.x. I have tested all the source code and examples used in this Course on Apache Kafka 2.5 open-source distribution.
 </p>
 
-</div>
+</div>i
+
+adeed new files here locally
